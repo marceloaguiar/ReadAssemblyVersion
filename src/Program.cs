@@ -13,6 +13,7 @@ namespace ReadAssemblyVersion
 
         static int Main(string[] args)
         {
+            //Dev Commit
             if (args.Length != 1)
             {
                 Console.Write("Invalid Arguments");
