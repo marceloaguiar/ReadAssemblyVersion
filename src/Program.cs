@@ -13,6 +13,8 @@ namespace ReadAssemblyVersion
 
         static int Main(string[] args)
         {
+            throw new NotImplementedException("It doesnt work anymore!");
+
             if (args.Length != 1)
             {
                 Console.Write("Invalid Arguments");
