@@ -36,6 +36,5 @@ namespace ReadAssemblyVersion
             }
             return (int)ExitCode.Success;
         }
-
     }
 }
